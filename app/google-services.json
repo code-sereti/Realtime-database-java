@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492028358106",
+    "project_id": "ridepal-dcb4b",
+    "storage_bucket": "ridepal-dcb4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492028358106:android:91e1b2fa2dc8a592e1a4e3",
+        "android_client_info": {
+          "package_name": "com.example.ridepal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5o77yQmo-L1Xj-K8PJ3dIgzAq4ts-_sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
